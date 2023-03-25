@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Welcome to my GitHub profile!
 
-I'm a software developer with experience in several programming languages and technologies, passionate about solving problems and creating innovative solutions. Here are some highlights about me:
+I'm a software engineering student, and in January I started writing my first lines of code. Here are some highlights about me:
 
 - 🎓 Studying Software Engineering
 - 💻 Studying software development in different areas, including web
