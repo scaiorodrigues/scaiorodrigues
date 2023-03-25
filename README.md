@@ -29,10 +29,10 @@ I'm a software engineering student, and in January I started writing my first li
 
 ### Programming languages
 
-![Python](https://img.shields.io/badge/Python-basic-brightgreen?style=for-the-badge&logo=Python)
-![JavaScript](https://img.shields.io/badge/JavaScript-basic-brightgreen?style=for-the-badge&logo=JavaScript)
-![CSS](https://img.shields.io/badge/CSS-basic-brightgreen?style=for-the-badge&logo=CSS)
-![HTML](https://img.shields.io/badge/HTML-basic-brightgreen?style=for-the-badge&logo=html5)
+![Python](https://img.shields.io/badge/Python-junior-brightgreen?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/JavaScript-junior-brightgreen?style=for-the-badge&logo=JavaScript)
+![CSS](https://img.shields.io/badge/CSS-junior-brightgreen?style=for-the-badge&logo=CSS)
+![HTML](https://img.shields.io/badge/HTML-junior-brightgreen?style=for-the-badge&logo=html5)
 
 ### Frameworks
 
@@ -41,9 +41,9 @@ I'm a software engineering student, and in January I started writing my first li
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-basic-brightgreen?style=for-the-badge&logo=MySQL)
+![MySQL](https://img.shields.io/badge/MySQL-junior-brightgreen?style=for-the-badge&logo=MySQL)
 
 
 ### Other technologies
 
-![Git](https://img.shields.io/badge/Git-basic-brightgreen?style=for-the-badge&logo=Git)
+![Git](https://img.shields.io/badge/Git-junior-brightgreen?style=for-the-badge&logo=Git)
