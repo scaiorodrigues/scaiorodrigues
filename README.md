@@ -29,8 +29,8 @@ I'm a software engineering student, and in January I started writing my first li
 
 ### Programming languages
 
-![Python](https://img.shields.io/badge/Python-junior-brightgreen?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-junior-brightgreen?style=for-the-badge&logo=JavaScript)
+![Python](https://img.shields.io/badge/Python-junior-brightgreen?style=for-the-badge&logo=Python)
 ![CSS](https://img.shields.io/badge/CSS-junior-brightgreen?style=for-the-badge&logo=CSS)
 ![HTML](https://img.shields.io/badge/HTML-junior-brightgreen?style=for-the-badge&logo=html5)
 
