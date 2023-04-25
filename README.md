@@ -37,7 +37,6 @@ I'm a software engineering student, and in January I started writing my first li
 ### Frameworks
 
 ![React](https://img.shields.io/badge/React-studying-lightgrey?style=for-the-badge&logo=React)
-?React=studying&logo=appveyor
 
 
 ### Databases
