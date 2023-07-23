@@ -47,5 +47,3 @@ I develop page presentations for companies, products, businesses, and other enti
 - 💻 Studying software development in different areas, including web
 - 🚀 Interested in technologies and database
 - 🌱 Accumulating hours of study to master and improve my skills
-
-#
