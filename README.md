@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 ### Welcome to my GitHub profile!
 
-
-#
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,8 +38,11 @@ Here are some ideas to get you started:
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![adobepremierepro](https://img.shields.io/badge/Adobe_Premiere_PRO-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![steamworks](https://img.shields.io/badge/Adobe_Premiere_PRO-9999FF?style=for-the-badge&logo=steamworks&logoColor=white)
+#
 
 I develop page presentations for companies, products, businesses, and other entities, coding and structuring the design of these products. In addition, I offer ongoing maintenance services to ensure the safety and optimal performance of the systems in question. My expertise encompasses both the creation of new pages, as enhancements and optimizations to existing designs. I am committed to providing efficient and reliable solutions, aligned with the specific needs of each client:
+
+#
 
 - 🎓 Studying Software Engineering
 - 💻 Studying software development in different areas, including web
