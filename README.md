@@ -39,6 +39,7 @@ I'm a software engineering student, and in January I started writing my first li
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![visualbasic](https://img.shields.io/badge/visualbasic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)
+[![visualbasic](https://img.shields.io/badge/Visual_Basic-39E09B?style=for-the-badge&logo=visualbasic&logoColor=white)]
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
