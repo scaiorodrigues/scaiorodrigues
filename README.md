@@ -35,9 +35,9 @@ I'm a software engineering student, and in January I started writing my first li
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual_Basic-00C4CC?style=for-the-badge&logo=visual-basic&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-00C4CC?style=for-the-badge&logo=visual-basic&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![webflow](https://img.shields.io/badge/webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
@@ -53,6 +53,7 @@ I'm a software engineering student, and in January I started writing my first li
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Premiere](https://img.shields.io/badge/Adobe_Premiere_PRO-#9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 
 ### Programming languages
