@@ -53,7 +53,7 @@ I'm a software engineering student, and in January I started writing my first li
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Premiere](https://img.shields.io/badge/Adobe_Premiere_PRO-#9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![adobepremierepro](https://img.shields.io/badge/Adobe_Premiere_PRO-#9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
 
 ### Programming languages
