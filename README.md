@@ -37,7 +37,9 @@ I'm a software engineering student, and in January I started writing my first li
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![visualbasic](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)
+
+![visualbasic](https://img.shields.io/badge/visualbasic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![webflow](https://img.shields.io/badge/webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
