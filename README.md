@@ -30,7 +30,7 @@ I'm a software engineering student, and in January I started writing my first li
 
 #
 
-(https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+!(https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Programming languages
 
