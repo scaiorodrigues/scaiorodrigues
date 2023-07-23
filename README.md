@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![adobepremierepro](https://img.shields.io/badge/Adobe_Premiere_PRO-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![steamworks](https://img.shields.io/badge/Adobe_Premiere_PRO-9999FF?style=for-the-badge&logo=steamworks&logoColor=white)
+
 #
 
 I develop page presentations for companies, products, businesses, and other entities, coding and structuring the design of these products. In addition, I offer ongoing maintenance services to ensure the safety and optimal performance of the systems in question. My expertise encompasses both the creation of new pages, as enhancements and optimizations to existing designs. I am committed to providing efficient and reliable solutions, aligned with the specific needs of each client:
