@@ -2,7 +2,7 @@
 
 ### 📊 Analista de Dados | Python · SQL · Streamlit · Excel
 
-Sou apaixonado por transformar dados em decisões. Tenho experiência em análise exploratória, automação de processos e visualização de dados, com foco em gerar valor real para negócios e projetos.
+Sou interessado por transformar dados em decisões. Tenho experiência em análise exploratória, automação de processos e visualização de dados, com foco em gerar valor real para negócios e projetos.
 
 ---
 
@@ -12,15 +12,6 @@ Sou apaixonado por transformar dados em decisões. Tenho experiência em anális
 - Python (Pandas, Matplotlib, Streamlit)
 - SQL / MySQL
 - Excel Avançado & VBA (automação e análise)
-
-**Ferramentas & Plataformas**
-- Git & GitHub
-- Streamlit (dashboards e apps de dados)
-- VS Code
-
-**Em aprendizado contínuo**
-- Power BI
-- Machine Learning com Python
 
 ---
 
