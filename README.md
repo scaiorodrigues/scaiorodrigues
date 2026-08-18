@@ -1,42 +1,30 @@
-# Olá, eu sou o Caio Rodrigues! 👋
+# Caio Rodrigues
 
-### 📊 Analista de Dados | Python · SQL · Streamlit · Excel
+Engenharia de Software em formação. Trabalho com análise de dados e com
+design de sistemas para emuladores e ferramentas locais.
 
-Sou interessado por transformar dados em decisões. Tenho experiência em análise exploratória, automação de processos e visualização de dados, com foco em gerar valor real para negócios e projetos.
+## Em foco
 
----
+**[rAthena Hardcore](https://github.com/scaiorodrigues/rAthena_hardcore)** — fork
+experimental Pre-Renewal com morte permanente, economia simulada por bots e
+direção de combate baseada em mobilidade e legibilidade. Pensado para rodar
+como servidor local.
 
-## 🛠️ Habilidades Técnicas
+A visão, as decisões de design e a curadoria do que entra no projeto são
+manuais. Uso assistentes de código no fluxo de implementação para iterar mais
+rápido.
 
-**Linguagens & Análise**
-- Python (Pandas, Matplotlib, Streamlit)
-- SQL / MySQL
-- Excel Avançado & VBA (automação e análise)
+## Também trabalho com
 
----
+- Análise de dados e automação (Python, SQL, Streamlit, Excel)
+- Protótipos e ferramentas em C# e web
 
-## 🚀 Projetos em Destaque
+## Stack
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [movies-dataset](https://github.com/scaiorodrigues/movies-dataset) | App de análise de filmes com dados do TMDB | Python, Streamlit |
-| [MicroOndasDigital](https://github.com/scaiorodrigues/MicroOndasDigital) | Painel digital simulado de micro-ondas | C#, SQL |
+`Python` · `SQL` · `C++` · `C#` · `Streamlit` · `Git`
 
----
+## Contato
 
-## 📈 GitHub Stats
-
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=scaiorodrigues&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scaiorodrigues&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 📢 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/scaiorodrigues/)
-- 📧 scaiorodrigues@protonmail.com
-- 📍 Maringá, PR — Brasil
-
----
-
-> *"Sem dados, você é apenas mais uma pessoa com uma opinião."* — W. Edwards Deming
+- [LinkedIn](https://www.linkedin.com/in/scaiorodrigues/)
+- scaiorodrigues@protonmail.com
+- Maringá, PR
