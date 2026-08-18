@@ -1,6 +1,6 @@
 # Caio Rodrigues
 
-Engenharia de Software em formação. Trabalho com análise de dados e com
+> Engenharia de Software em formação. Trabalho com análise de dados e com
 design de sistemas para emuladores e ferramentas locais.
 
 ## Em foco
