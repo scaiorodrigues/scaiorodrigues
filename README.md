@@ -1,34 +1,29 @@
 # Caio Rodrigues
 
-> Engenharia de Software em formação. Trabalho com análise de dados e com
-design de sistemas para emuladores e ferramentas locais.
+**Analista de Projetos e Automação de Processos**  
+Engenharia de Software em formação · Maringá, PR
 
+Trabalho com organização de fluxos, automação de processos e controle de demandas em ambientes industriais e operacionais.  
+Foco em eliminar retrabalho, integrar sistemas e criar visibilidade real do andamento dos projetos.
 
-## Em foco
+### O que eu faço
+- Mapeamento e estruturação de processos
+- Automação com **n8n** (self-hosted em VPS)
+- Integração de formulários, planilhas, Trello e calendários
+- Controle de ordens de serviço e demandas
+- Criação de fluxos que reduzem entrada manual e aumentam a previsibilidade
 
-**[rAthena Hardcore](https://github.com/scaiorodrigues/rAthena_hardcore)** — fork
-experimental Pre-Renewal com morte permanente, economia simulada por bots e
-direção de combate baseada em mobilidade e legibilidade. Pensado para rodar
-como servidor local.
+### Stack principal
+`n8n` · `Trello` · `Google Forms / Sheets` · `Excel Avançado` · `Python` · `SQL` · `VPS`
 
-A visão, as decisões de design e a curadoria do que entra no projeto são
-manuais. Uso assistentes de código no fluxo de implementação para iterar mais
-rápido.
+### Em formação
+Engenharia de Software (Estácio)
 
-
-## Também trabalho com
-
-- Análise de dados e automação (Python, SQL, Streamlit, Excel)
-- Protótipos e ferramentas em C# e web
-
-
-## Stack
-
-`Python` · `SQL` · `C++` · `C#` · `Streamlit` · `Git`
-
-
-## Contato
-
+### Contato
 - [LinkedIn](https://www.linkedin.com/in/scaiorodrigues/)
 - scaiorodrigues@protonmail.com
 - Maringá, PR
+
+---
+
+> Foco em soluções práticas que realmente rodam no dia a dia da operação.
